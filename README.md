@@ -1,7 +1,7 @@
 # LeetCode Solutions - Kotlin
 LeetCode solutions
 
-![GitHub](https://img.shields.io/github/license/<UserName>/LeetCode-Solutions-Kotlin>)
+![GitHub](https://img.shields.io/github/license/gauthampaimk/leetcode>)
 
 Welcome to my GitHub repository! This repository contains my solutions for LeetCode problems, all written in Kotlin. It serves as a reference guide for anyone interested in studying algorithms or preparing for coding interviews.
 
